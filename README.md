@@ -4,7 +4,7 @@ virtualenv venv --python=python2
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-run:
+run some tests:
 ```
 python scan.py
 ```
