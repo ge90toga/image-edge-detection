@@ -1,3 +1,8 @@
+check python availiable 
+install pip if not installed by running:
+```
+sudo easy_install pip
+```
 prepare enviroment
 ```
 virtualenv venv --python=python2
